@@ -1,0 +1,6 @@
+.navbar ul a{
+  color: white;
+}
+.navbar ul li ul a{
+  color: black;
+}
